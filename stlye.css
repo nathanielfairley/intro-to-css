@@ -33,3 +33,15 @@ li {
 body {
       background-image: url("dog1");
 }
+
+.class1 {
+      text-decoration: ;ine-through;
+}
+
+.class2 {
+      text-shadow: 4px 4px #ff0000;
+}
+
+#thethird {
+      transform: rotate(180deg);
+}
