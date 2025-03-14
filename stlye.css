@@ -29,3 +29,7 @@ li {
       list-style-type: square;
       text-shadow: 5px 5px lightgray;
 }
+
+body {
+      background-image: url("dog1");
+}
