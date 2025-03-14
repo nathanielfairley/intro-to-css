@@ -3,8 +3,11 @@ h1 {
       background-color: slategray;
       font-size: 40px;
       text-decoration: line-through;
+      font-family: calibri;
+      text-align: center;
 }
 
 p {
       color: slategray;
+      text-align: right;
     }
